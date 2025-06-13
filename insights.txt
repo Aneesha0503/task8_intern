@@ -1,0 +1,15 @@
+SALES OVER MONTHS:
+
+Sales Showed Decline Over Time
+The monthly sales trend shows a gradual decline after an early peak around late 2014 - early 2015, suggesting the need for new sales strategies or seasonal impacts affecting performance.
+
+SALES BY REGION:
+
+West Region Leads Sales
+The West region achieved the highest total sales across all regions, surpassing 700K in total sales. This suggests strong customer demand and market penetration in this region.
+
+SALES BY CATEGORY:
+
+Technology Category Dominates
+The Technology category contributed the highest share of sales (~36.4%), outperforming both Furniture and Office Supplies. This indicates a significant revenue driver for the business.
+
